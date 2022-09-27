@@ -1,0 +1,32 @@
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_Vista.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.Consulta.resources
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\Practica MVC\ProyectoMVC\Capa_Vista\bin\Debug\Capa_modelo.pdb
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_Vista.dll
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_modelo.dll
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\bin\Debug\Capa_modelo.pdb
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.Menu.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.dll
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.productos.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.Compras.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.Lote.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.Inventarios.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\2 parcial 3 serie\Prototipo2P\Capa_Vista\obj\Debug\Capa_Vista.splash.resources
