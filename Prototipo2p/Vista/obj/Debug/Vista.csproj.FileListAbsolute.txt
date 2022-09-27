@@ -1,0 +1,9 @@
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\bin\Debug\Vista.dll
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\bin\Debug\Vista.pdb
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\obj\Debug\Vista.dll
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\obj\Debug\Vista.pdb
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\bin\Debug\Controlador.dll
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\bin\Debug\Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\3ra serie\Prototipo2p\Vista\obj\Debug\Vista.csproj.CopyComplete

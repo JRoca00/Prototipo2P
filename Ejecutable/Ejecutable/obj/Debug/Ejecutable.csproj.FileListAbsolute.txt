@@ -1,0 +1,12 @@
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe.config
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\bin\Debug\Ejecutable.pdb
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\bin\Debug\Vista.dll
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\bin\Debug\Vista.pdb
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.exe
+C:\Users\marro\OneDrive\Desktop\3ra serie\Ejecutable\Ejecutable\obj\Debug\Ejecutable.pdb
